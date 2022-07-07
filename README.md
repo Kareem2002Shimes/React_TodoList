@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React_TodoList
+
+Coded by - [kareem shimes]
+
+![](/todolist.PNG)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
